@@ -29,4 +29,4 @@ module.exports = {
   machine: machine,
   vehicle: vehicle,
   robot: robot
-}
+};
